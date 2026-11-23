@@ -3,3 +3,4 @@ pandas>=2.0
 scipy>=1.10
 matplotlib>=3.7
 gradio>=6.5,<7
+ipython>=8.0
